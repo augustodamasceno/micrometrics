@@ -19,6 +19,7 @@ With
 ## C++
 
 *  [0001 - String Interning](cpp/results/0001-string-interning.md)
+*  [0002 - Smart Pointers](cpp/results/0002-smart-pointers.md)
 
 # Online Compilers & Editors
 
